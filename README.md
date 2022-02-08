@@ -11,10 +11,12 @@ The following steps are used:
 - Set color of the turtle
 
 ### How to run the script
-Execute `python turtlespiral.py`
+1. Execute `python spiralhelix.py`
+<details><summary><b>Screenshot</b></summary>
+  
+```python3```
 
-### Screenshot showing the sample use of the script
-
+</details>
 
 ## *Author Name*
 [Vikrant](https://github.com/vikrant-v28)
