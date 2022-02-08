@@ -13,9 +13,9 @@ The following steps are used:
 ### How to run the script
 1. Execute `python spiralhelix.py`
 <details><summary><b>Output Screenshot</b></summary>
-  
-```python3```
-
+  <p align="center">
+    <a href="spiral_helix.png"><img src="https://user-images.githubusercontent.com/85709371/152995935-c6f5e4a0-a51e-4a50-aecf-aa3aa621e760.png" alt="spiral_helix"></a>
+  </p>
 </details>
 
 ## *Author Name*
