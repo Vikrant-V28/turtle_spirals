@@ -12,7 +12,7 @@ The following steps are used:
 
 ### How to run the script
 1. Execute `python spiralhelix.py`
-<details><summary><b>Screenshot</b></summary>
+<details><summary><b>Output Screenshot</b></summary>
   
 ```python3```
 
