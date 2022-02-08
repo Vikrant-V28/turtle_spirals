@@ -18,5 +18,12 @@ The following steps are used:
   </p>
 </details>
 
+2. Execute `python spiral.py`
+<details><summary><b>Output Screenshot</b></summary>
+  <p align="center">
+    <a href="spiral.png"><img src="" alt="spiral"></a>
+  </p>
+</details>
+
 ## *Author Name*
 [Vikrant](https://github.com/vikrant-v28)
