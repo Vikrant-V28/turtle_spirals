@@ -24,6 +24,7 @@ The following steps are used:
     <a href="spiral_gif.gif"><img src="https://user-images.githubusercontent.com/85709371/152999253-b536e20b-1187-44b5-b1cf-63f882beb967.gif" alt="spiral_gif"></a>
   </p>
 </details>
+![ring_spiral](https://user-images.githubusercontent.com/85709371/153264335-d6646c83-33df-4e58-a509-3bc05cec0127.png)
 
 3. Execute `python ring_spiral.py`
 <details><summary><b>Output Screenshot</b></summary>
