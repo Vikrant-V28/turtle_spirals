@@ -1,6 +1,6 @@
-# This is a custom module we've made.
+# This is a custom module I've made.
 # Modules are files full of code that you can import into your programs.
-# This one teaches our turtle to draw various shapes.
+# This one teaches turtle to draw various shapes.
 
 import turtle
 
