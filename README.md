@@ -14,7 +14,7 @@ The following steps are used:
 1. Execute `python spiralhelix.py`
 <details><summary><b>Output Screenshot</b></summary>
   <p align="center">
-    <a href="spiral_helix.png"><img src="https://user-images.githubusercontent.com/85709371/152995935-c6f5e4a0-a51e-4a50-aecf-aa3aa621e760.png" alt="spiral_helix"></a>
+    <a href="spiralhelix.png"><img src="https://user-images.githubusercontent.com/85709371/152995935-c6f5e4a0-a51e-4a50-aecf-aa3aa621e760.png" alt="spiralhelix"></a>
   </p>
 </details>
 
@@ -24,12 +24,11 @@ The following steps are used:
     <a href="spiral_gif.gif"><img src="https://user-images.githubusercontent.com/85709371/152999253-b536e20b-1187-44b5-b1cf-63f882beb967.gif" alt="spiral_gif"></a>
   </p>
 </details>
-![ring_spiral](https://user-images.githubusercontent.com/85709371/153264335-d6646c83-33df-4e58-a509-3bc05cec0127.png)
 
 3. Execute `python ring_spiral.py`
 <details><summary><b>Output Screenshot</b></summary>
   <p align="center">
-    <a href="spiral_gif.gif"><img src="https://user-images.githubusercontent.com/85709371/152999253-b536e20b-1187-44b5-b1cf-63f882beb967.gif" alt="spiral_gif"></a>
+    <a href="ring_spiral.png"><img src="https://user-images.githubusercontent.com/85709371/153264335-d6646c83-33df-4e58-a509-3bc05cec0127.png" alt="ring_spiral"></a>
   </p>
 </details>
 
