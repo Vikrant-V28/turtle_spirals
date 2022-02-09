@@ -35,7 +35,7 @@ The following steps are used:
 4. Execute `python spiral_helix.py`
 <details><summary><b>Output Screenshot</b></summary>
   <p align="center">
-    <a href="spiral_helix_gif.gif"><img src="https://user-images.githubusercontent.com/85709371/152999253-b536e20b-1187-44b5-b1cf-63f882beb967.gif" alt="spiral_gif"></a>
+    <a href=""><img src="" alt=""></a>
   </p>
 </details>
 
