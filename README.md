@@ -28,7 +28,7 @@ The following steps are used:
 3. Execute `python ring_spiral.py`
 <details><summary><b>Output Screenshot</b></summary>
   <p align="center">
-    <a href="ring_spiral.png"><img src="https://user-images.githubusercontent.com/85709371/153264335-d6646c83-33df-4e58-a509-3bc05cec0127.png" alt="ring_spiral"></a>
+    <a href="Outputs/ring_spiral.png"><img src="https://user-images.githubusercontent.com/85709371/153264335-d6646c83-33df-4e58-a509-3bc05cec0127.png" alt="ring_spiral"></a>
   </p>
 </details>
 
