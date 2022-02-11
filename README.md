@@ -46,5 +46,12 @@ The following steps are used:
   </p>
 </details>
 
+6. Execute `python hypnotic_spiral.py`
+<details><summary><b>Output Screenshot</b></summary>
+  <p align="center">
+    <a href="hypnotic_spiral.png"><img src="https://user-images.githubusercontent.com/85709371/153568327-2806b098-a57b-4848-bdc2-98c70f40a98f.png" alt="hypnotic_spiral"></a>
+  </p>
+</details>
+
 ## *Author Name*
 [Vikrant](https://github.com/vikrant-v28)
