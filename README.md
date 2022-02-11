@@ -42,11 +42,9 @@ The following steps are used:
 5. Execute `python red_spiral_helix.py`
 <details><summary><b>Output Screenshot</b></summary>
   <p align="center">
-    <a href="red_spiral_helix.png"><img src="https://user-images.githubusercontent.com/85709371/153266798-0141ca48-6be7-4251-a113-56f1f03bab8e.png" alt="red_spiral_helix"></a>
+    <a href="red_spiral_helix.png"><img src="https://user-images.githubusercontent.com/85709371/153545728-30bfd66b-cdbe-469a-bb43-b981d98597d3.png" alt="red_spiral_helix"></a>
   </p>
 </details>
-![red_spiral_helix](https://user-images.githubusercontent.com/85709371/153545728-30bfd66b-cdbe-469a-bb43-b981d98597d3.png)
-
 
 ## *Author Name*
 [Vikrant](https://github.com/vikrant-v28)
